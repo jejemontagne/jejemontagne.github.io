@@ -1,0 +1,28 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html"/>
+
+<link rel="stylesheet" type="text/css" href="jr-presentation.css"/>
+
+<dom-module id="jr-presentation">
+    <link rel="stylesheet" type="text/css" href="/materialize/css/materialize.css">
+    <template>
+        <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="./img/jerome.jpg">
+            </div>
+            <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Jérôme Rancati<i class="material-icons right">more_vert</i></span>
+                <p><a href="#">Détails</a></p>
+            </div>
+            <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Jérôme Rancati<i class="material-icons right">close</i></span>
+                <p>Here is some more information about this product that is only revealed once clicked on.</p>
+            </div>
+        </div>
+    </template>
+</dom-module>
+
+<script>
+    Polymer({
+        is: "jr-presentation"
+    });
+</script>
