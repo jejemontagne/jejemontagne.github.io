@@ -2,7 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f92049-cfe0-4dc1-81f5-d6878f2f029d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/CustomElements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/CustomElements.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/HTMLImports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/HTMLImports.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/MutationObserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/MutationObserver.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/font/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/ShadowDOM.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/ShadowDOM.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/build.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/build.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/js/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialize/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/polymer-micro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/polymer-mini.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/polymer/polymer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/webcomponents-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/webcomponents-lite.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/webcomponents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/bower_components/webcomponentsjs/webcomponents.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jejemontagne.github.io.iml" afterPath="$PROJECT_DIR$/.idea/jejemontagne.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jejemontagne.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +86,91 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37292817" vertical-offset="0" max-vertical-offset="1545">
-              <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+            <state vertical-scroll-proportion="0.38987687" vertical-offset="165" max-vertical-offset="1755">
+              <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="materialize.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/materialize/js/materialize.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3064" max-vertical-offset="90375">
+              <caret line="225" column="16" selection-start-line="225" selection-start-column="16" selection-end-line="225" selection-end-column="16" />
+              <folding>
+                <marker date="1438523947000" expanded="true" signature="192463:192492" placeholder="..." />
+                <marker date="1438523947000" expanded="true" signature="192753:192763" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="390">
+              <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-footer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="660">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-sidebar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="735">
+              <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-sidebar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/bower_components/polymer/build.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polymer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/bower_components/polymer/polymer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="56730">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,6 +184,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/materialize/js/materialize.js" />
+        <option value="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/kubi-sidedevicepicker.html" />
+        <option value="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.js" />
+        <option value="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.html" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -53,8 +198,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -81,8 +227,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -101,8 +245,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jr-footer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,11 +355,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/jejemontagne/jr-footer" />
+      <recent name="$PROJECT_DIR$/components/jejemontagne/jr-sidebar" />
+      <recent name="$PROJECT_DIR$/components" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/jejemontagne" />
     </key>
   </component>
   <component name="RunManager">
@@ -240,6 +479,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -432,15 +677,17 @@
       <option name="number" value="Default" />
       <updated>1428308096001</updated>
       <workItem from="1428308096451" duration="222000" />
-      <workItem from="1428308388297" duration="1016000" />
+      <workItem from="1428308388297" duration="1263000" />
+      <workItem from="1429451518305" duration="2983000" />
+      <workItem from="1438523629953" duration="2613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1238000" />
+    <option name="totallyTimeSpent" value="7081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -494,6 +741,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -504,9 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34749034" vertical-offset="0" max-vertical-offset="777">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33204633" vertical-offset="27" max-vertical-offset="1260">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -522,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.019305019" vertical-offset="0" max-vertical-offset="777">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,14 +788,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15958816" vertical-offset="1421" max-vertical-offset="18645">
           <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/bower_components/polymer/build.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/bower_components/polymer/polymer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="56730">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialize/js/materialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3064" max-vertical-offset="90375">
+          <caret line="225" column="16" selection-start-line="225" selection-start-column="16" selection-end-line="225" selection-end-column="16" />
+          <folding>
+            <marker date="1438523947000" expanded="true" signature="192463:192492" placeholder="..." />
+            <marker date="1438523947000" expanded="true" signature="192753:192763" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="390">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="660">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37292817" vertical-offset="0" max-vertical-offset="1545">
-          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.38987687" vertical-offset="165" max-vertical-offset="1755">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
           <folding />
         </state>
       </provider>

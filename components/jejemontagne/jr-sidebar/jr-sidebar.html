@@ -1,0 +1,43 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html"/>
+
+
+<script src="jr-sidebar.js"></script>
+
+
+<dom-module id="jr-sidebar">
+    <template>
+        <div>
+
+            <form id="radioDevicePicker" action="#" on-change="devicepickerUpdatesGraph"></form>
+
+            <script id="radioDevicePicker_template" type="text/x-handlebars-template">
+                <ul id="nav-mobile" class="side-nav fixed">
+                    <repeat each="{{ ecosystem.technologies }}" as="techno">
+                        <li>
+                            <p class="filled-in" >{{techno.name}} :</p>
+                            <ul>
+                                <repeat each="{{techno.devices}}" as="device">
+                                    <li>
+                                        <input name="radioDevicePicker-group" class="filled-in" value="<~>{{device.name}}" type="checkbox" checked="checked" id="radio{{device.name}}"/>
+                                        <label for="radio{{device.name}}">{{device.name}}</label>
+                                    </li>
+                                </repeat>
+                            </ul>
+                        </li>
+                    </repeat>
+                </ul>
+
+            </script>
+        </div>
+    </template>
+</dom-module>
+
+<script>
+    Polymer({
+        is: "jr-sidebar",
+        ready : function (){
+
+        }
+
+    });
+</script>
