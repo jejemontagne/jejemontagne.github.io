@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5f92049-cfe0-4dc1-81f5-d6878f2f029d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="jejemontagne.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +56,28 @@
       <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="390">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="405">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jr-header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08207934" vertical-offset="0" max-vertical-offset="731">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jr-footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jr-footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71819425" vertical-offset="0" max-vertical-offset="731">
+            <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="660">
               <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
               <folding />
             </state>
@@ -95,16 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/bower_components/polymer/build.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,8 +146,9 @@
         <option value="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.js" />
         <option value="$PROJECT_DIR$/components/jejemontagne/jr-sidebar/jr-sidebar.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.html" />
       </list>
     </option>
   </component>
@@ -257,6 +271,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="jr-header" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jejemontagne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="jr-footer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -304,6 +340,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components/jejemontagne/jr-header" />
       <recent name="$PROJECT_DIR$/components/jejemontagne/jr-footer" />
       <recent name="$PROJECT_DIR$/components/jejemontagne/jr-sidebar" />
       <recent name="$PROJECT_DIR$/components" />
@@ -623,12 +660,12 @@
       <workItem from="1428308096451" duration="222000" />
       <workItem from="1428308388297" duration="1263000" />
       <workItem from="1429451518305" duration="2983000" />
-      <workItem from="1438523629953" duration="2871000" />
+      <workItem from="1438523629953" duration="3076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7339000" />
+    <option name="totallyTimeSpent" value="7544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -794,18 +831,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="390">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="660">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-footer/jr-footer.html">
+    <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71819425" vertical-offset="0" max-vertical-offset="731">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="405">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-header/jr-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08207934" vertical-offset="0" max-vertical-offset="731">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
