@@ -63,8 +63,8 @@
       <file leaf-file-name="jr-presentation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-presentation/jr-presentation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10259918" vertical-offset="0" max-vertical-offset="731">
-              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.14363885" vertical-offset="0" max-vertical-offset="731">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -638,12 +638,12 @@
       <workItem from="1428308096451" duration="222000" />
       <workItem from="1428308388297" duration="1263000" />
       <workItem from="1429451518305" duration="2983000" />
-      <workItem from="1438523629953" duration="4409000" />
+      <workItem from="1438523629953" duration="4587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8877000" />
+    <option name="totallyTimeSpent" value="9055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -851,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/jejemontagne/jr-presentation/jr-presentation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10259918" vertical-offset="0" max-vertical-offset="731">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.14363885" vertical-offset="0" max-vertical-offset="731">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding />
         </state>
       </provider>
