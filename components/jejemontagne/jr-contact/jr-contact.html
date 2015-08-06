@@ -1,0 +1,40 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html"/>
+
+<link rel="stylesheet" type="text/css" href="jr-header.css"/>
+
+<dom-module id="jr-header">
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+
+    <template>
+
+        <ul class="collection with-header">
+            <li class="collection-header"><i class="material-icons circle red">contacts</i><h4>Me contacter</h4></li>
+            <li class="collection-item avatar">
+                <i class="material-icons circle red">email</i>
+                <div>Email<a href="mailto:jerome.rancati@gmail.com" class="secondary-content"><i class="material-icons">send</i></a></div>
+            </li>
+            <li class="collection-item avatar">
+                <i class="material-icons circle red">phone</i>
+                <div>Téléphone : <address>+33(0).6.28.51.80.57</address><p class="secondary-content"><i class="material-icons">send</i></p></div>
+            </li>
+            <li class="collection-item avatar">
+                <i class="material-icons circle red">twitter</i>
+                <div>Twitter<a href="https://twitter.com/jejemontagne" class="secondary-content"><i class="material-icons">send</i></a></div>
+            </li>
+            <li class="collection-item avatar">
+                <i class="material-icons circle red">linkedIn</i>
+                <div>LinkedIn<a href="https://fr.linkedin.com/pub/jérôme-rancati/62/26/322" class="secondary-content"><i class="material-icons">send</i></a></div>
+            </li>
+        </ul>
+
+    </template>
+</dom-module>
+
+<script>
+    Polymer({
+        is: "jr-header"
+    });
+</script>
